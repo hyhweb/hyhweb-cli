@@ -1,0 +1,6 @@
+{
+  "test": {
+    "url": "https://github.com/hyhweb/git-test.git",
+    "branch": "master"
+  }
+}
